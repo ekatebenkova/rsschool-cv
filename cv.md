@@ -16,7 +16,6 @@ I study JavaScript to grow professionally.
   Gulp  
   jQuery  
 5. **Code examples:**
-
 ```HTML
 <section class="offer section">
     <div class="container">
@@ -37,5 +36,4 @@ I study JavaScript to grow professionally.
     </div>
 </section>
 ```
-
 6. **Experience:** I study layout recently, there are only training projects:
