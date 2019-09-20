@@ -1,21 +1,25 @@
-1. **Ekaterina Tebenkova**
-2. **Contact info:**  
+## Ekaterina Tebenkova
+
+**Contact info:**  
   email: biruta78@mail.ru  
   skype: biruta78  
-  discord: Ekaterina (@ekatebenkova)  
-3. **Summary:** I'm changing my field of activity and decided to become a web developer.
+  discord: Ekaterina (@ekatebenkova) 
+
+**Summary:** I'm changing my field of activity and decided to become a web developer.
 She graduated from the course of web development Web-start 3.0 from the Academy of layout Artem Islamov.
 Proficient in HTML, CSS, Bootstrap 4, Sass, Git, Github, animation in CSS, sliders, Gulp, a little jQuery, JavaScript. I can connect Analytics, maps to the site.
 Adaptive, cross-browser, valid layout.
 I study JavaScript to grow professionally.
-4. **Skills:**  
+
+**Skills:**  
   HTML  
   CSS  
   Sass  
   Bootstrap  
   Gulp  
-  jQuery  
-5. **Code examples:**  
+  jQuery 
+
+**Code examples:**  
 
 ```HTML
 <section class="offer section">
@@ -38,6 +42,6 @@ I study JavaScript to grow professionally.
 </section>
 ```  
 
-6. **Experience:** I study layout recently, there are only training projects:
+**Experience:** I study layout recently, there are only training projects:  
   [landing1](https://ekatebenkova.ru/projects/Logo/index.html)  
   [landing2](https://ekatebenkova.ru/projects/repair/index.html)
