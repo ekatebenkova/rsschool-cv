@@ -15,8 +15,8 @@ I study JavaScript to grow professionally.
   Bootstrap  
   Gulp  
   jQuery  
-5. **Code examples:**  
-```
+5. **Code examples:**
+```HTML
 <section class="offer section">
     <div class="container">
         <div class="offer-block">
