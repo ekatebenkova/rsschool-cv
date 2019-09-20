@@ -44,4 +44,13 @@ I study JavaScript to grow professionally.
 
 **Experience:** I study layout recently, there are only training projects:  
   [landing1](https://ekatebenkova.ru/projects/Logo/index.html)  
-  [landing2](https://ekatebenkova.ru/projects/repair/index.html)
+  [landing2](https://ekatebenkova.ru/projects/repair/index.html)  
+
+**Education:**  
+September 2019 - course Introduction HTML, Learn CSS - Codecademy  
+August 2019 - course JavaScript for beginners - Stepic  
+May - June 2019 - web development course Web-start 3.0 Academy of layout Artem Islamov  
+1999 - 2002 - Ural state University of Economics  
+1995 - 1997 - Kamensk-Ural economic College
+
+**English:** at the moment, the level of English A1, studying on their own video tutorials
