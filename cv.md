@@ -15,7 +15,8 @@ I study JavaScript to grow professionally.
   Bootstrap  
   Gulp  
   jQuery  
-5. **Code examples:**
+5. **Code examples:**  
+
 ```HTML
 <section class="offer section">
     <div class="container">
@@ -35,5 +36,8 @@ I study JavaScript to grow professionally.
         </div>
     </div>
 </section>
-```
+```  
+
 6. **Experience:** I study layout recently, there are only training projects:
+  [landing1](https://ekatebenkova.ru/projects/Logo/index.html)  
+  [landing2](https://ekatebenkova.ru/projects/repair/index.html)
