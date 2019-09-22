@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Neue Haas Grotesk Display Bold';
+    src: url(../rsschool-cv/fonts/NeueHaasDisplay-Bold.eot);
+    src: url(../rsschool-cv/fonts/NeueHaasDisplay-Bold.eot?#iefix) format('embedded-opentype'),
+    url(../rsschool-cv/fonts/NeueHaasDisplay-Bold.woff) format('woff'),
+    url(../rsschool-cv/fonts/NeueHaasDisplay-Bold.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Grotesk Display Black';
+    src: url(../rsschool-cv/fonts/NeueHaasDisplay-Black.eot);
+    src: url(../rsschool-cv/fonts/NeueHaasDisplay-Black.eot?#iefix) format('embedded-opentype'),
+    url(../rsschool-cv/fonts/NeueHaasDisplay-Black.woff) format('woff'),
+    url(../rsschool-cv/fonts/NeueHaasDisplay-Black.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Grotesk Display Roman';
+    src: url(../rsschool-cv/fonts/NeueHaasDisplay-Roman.eot);
+    src: url(../rsschool-cv/fonts/NeueHaasDisplay-Roman.eot?#iefix) format('embedded-opentype'),
+    url(../rsschool-cv/fonts/NeueHaasDisplay-Roman.woff) format('woff'),
+    url(../rsschool-cv/fonts/NeueHaasDisplay-Roman.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    margin: 0 auto;
+    font-family: 'Neue Haas Grotesk Display Roman';
+}
+
+main {
+
+}
+
+section {
+    background-color: #39383a;
+    color: #c4c0c0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.summary {
+    margin-right: 30px;
+}
+
+h1 {
+    font-family: 'Neue Haas Grotesk Display Black';
+    font-size: 50px;
+    color: white;
+}
+
+h3 {
+    font-family: 'Neue Haas Grotesk Display Bold';
+    font-size: 30px;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: #c4c0c0;
+    font-size: 20px;
+}
+
+a:hover {
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+span {
+    font-size: 20px;
+    border: 2px solid #c4c0c0;
+    border-radius: 15px;
+    margin-right: 20px;
+    padding: 5px 10px;
+}
+
+.code_examples {
+    max-width: 1024px;
+    margin: 0;
+}
